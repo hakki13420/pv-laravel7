@@ -1,0 +1,7 @@
+footer, aside, nav{
+    display:none!important;
+}
+.qrcode, .qrcode div canvas{
+    width: 85px!important;
+    height: 85px!important;
+}
